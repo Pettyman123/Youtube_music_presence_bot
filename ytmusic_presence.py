@@ -3,7 +3,7 @@ import pygetwindow as gw
 import time
 import win32gui
 
-client_id = 1385959866262229084
+client_id = "your discord client id for app"
 rpc = Presence(client_id)
 rpc.connect()
 
